@@ -3,12 +3,12 @@
 
 ## Clase Jueves Segundo Semestre
 
-'hola que tal'
+' hola que tal '
 
-''lineas
+'' lineas
 de
-codigos''
+codigos ''
 
-**Woah**
+** Woah **
 
 rer
